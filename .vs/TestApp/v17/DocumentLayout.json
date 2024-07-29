@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\backend\\TestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|c:\\backend\\testapp\\testapp\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|c:\\backend\\testapp\\testapp\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|c:\\backend\\testapp\\testapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|c:\\backend\\testapp\\testapp\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|c:\\backend\\testapp\\testapp\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|c:\\backend\\testapp\\testapp\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|c:\\backend\\testapp\\testapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|c:\\backend\\testapp\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|c:\\backend\\testapp\\testapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|c:\\backend\\testapp\\testapp\\migrations\\20240725083410_addstudenttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\migrations\\20240725083410_addstudenttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|c:\\backend\\testapp\\testapp\\testapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A874E01-B518-4CCD-AF70-BCAF4578BBA1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\testapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IstudentRepository.cs",
+              "DocumentMoniker": "C:\\backend\\TestApp\\TestApp\\Repository\\IstudentRepository.cs",
+              "RelativeDocumentMoniker": "TestApp\\Repository\\IstudentRepository.cs",
+              "ToolTip": "C:\\backend\\TestApp\\TestApp\\Repository\\IstudentRepository.cs",
+              "RelativeToolTip": "TestApp\\Repository\\IstudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:18:01.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\backend\\TestApp\\TestApp\\DataContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TestApp\\DataContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\backend\\TestApp\\TestApp\\DataContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TestApp\\DataContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:12:53.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\backend\\TestApp\\TestApp\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "TestApp\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\backend\\TestApp\\TestApp\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "TestApp\\Repository\\StudentRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:21:05.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\backend\\TestApp\\TestApp\\Address.cs",
+              "RelativeDocumentMoniker": "TestApp\\Address.cs",
+              "ToolTip": "C:\\backend\\TestApp\\TestApp\\Address.cs",
+              "RelativeToolTip": "TestApp\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:58:16.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\backend\\TestApp\\TestApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "TestApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\backend\\TestApp\\TestApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "TestApp\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:31:37.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\backend\\TestApp\\TestApp\\Gender.cs",
+              "RelativeDocumentMoniker": "TestApp\\Gender.cs",
+              "ToolTip": "C:\\backend\\TestApp\\TestApp\\Gender.cs",
+              "RelativeToolTip": "TestApp\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:59:55.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\backend\\TestApp\\TestApp\\Student.cs",
+              "RelativeDocumentMoniker": "TestApp\\Student.cs",
+              "ToolTip": "C:\\backend\\TestApp\\TestApp\\Student.cs",
+              "RelativeToolTip": "TestApp\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T08:24:04.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\backend\\TestApp\\TestApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestApp\\Program.cs",
+              "ToolTip": "C:\\backend\\TestApp\\TestApp\\Program.cs",
+              "RelativeToolTip": "TestApp\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:27:12.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\backend\\TestApp\\TestApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TestApp\\appsettings.json",
+              "ToolTip": "C:\\backend\\TestApp\\TestApp\\appsettings.json",
+              "RelativeToolTip": "TestApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T06:19:02.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240725083410_AddStudentToDb.cs",
+              "DocumentMoniker": "C:\\backend\\TestApp\\TestApp\\Migrations\\20240725083410_AddStudentToDb.cs",
+              "RelativeDocumentMoniker": "TestApp\\Migrations\\20240725083410_AddStudentToDb.cs",
+              "ToolTip": "C:\\backend\\TestApp\\TestApp\\Migrations\\20240725083410_AddStudentToDb.cs",
+              "RelativeToolTip": "TestApp\\Migrations\\20240725083410_AddStudentToDb.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:45:39.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestApp.csproj",
+              "DocumentMoniker": "C:\\backend\\TestApp\\TestApp\\TestApp.csproj",
+              "RelativeDocumentMoniker": "TestApp\\TestApp.csproj",
+              "ToolTip": "C:\\backend\\TestApp\\TestApp\\TestApp.csproj",
+              "RelativeToolTip": "TestApp\\TestApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T09:15:05.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
